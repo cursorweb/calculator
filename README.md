@@ -1,2 +1,4 @@
 # Calculator
-A calculator. Built with JS: Includes eval()
+A calculator. Built with JS: Includes ```javascript
+eval();
+```
