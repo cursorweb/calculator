@@ -1,2 +1,2 @@
-# calculator
-A calculator
+# Calculator
+A calculator. Built with JS: Includes eval()
